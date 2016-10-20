@@ -9,6 +9,8 @@ Progress:-
 
 4) There has been a problem with the completion of this project due to the various input/output errors that it is generating. Hope, I get them sorted out soon. 
 
+5) This project is likely to extend to new areas. It will generate a random password everytime you enter the input. 
+
 Motivation:-
 This project will help the portal to increase its security features so that only authorised users are able to access their respective portals.
 
